@@ -9,7 +9,7 @@
 |5|네트워크|[📒 확인하기][network]|
 |6|자료구조&알고리즘|[📒 확인하기][structure]|
 |7|Spring|[📒 확인하기][spring]|
-|8|JPA|[🔧 준비중]()|
+|8|JPA|[📒 확인하기][jpa]|
 |9|프로젝트|[🔧 준비중]()|
 
 [java]: ./java
@@ -17,3 +17,4 @@
 [network]: ./network
 [structure]: ./structure
 [spring]: ./spring
+[jpa]: ./jpa
