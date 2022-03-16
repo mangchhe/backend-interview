@@ -4,7 +4,7 @@
 |:-:|-|:-:|
 |1|Java|[📒 확인하기][java]|
 |2|Programming|[📒 확인하기][programming]|
-|3|운영체제|[🔧 준비중]()|
+|3|운영체제|[📒 확인하기][os]|
 |4|데이터베이스|[📒 확인하기][db]|
 |5|네트워크|[📒 확인하기][network]|
 |6|자료구조&알고리즘|[📒 확인하기][structure]|
@@ -14,6 +14,7 @@
 
 [java]: ./java
 [programming]: ./programming
+[os]: ./os
 [db]: ./db
 [network]: ./network
 [structure]: ./structure
